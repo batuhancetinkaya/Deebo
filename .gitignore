@@ -102,3 +102,4 @@ ENV/
 
 #VSCode local_settings
 .vscode/
+.DS_Store
